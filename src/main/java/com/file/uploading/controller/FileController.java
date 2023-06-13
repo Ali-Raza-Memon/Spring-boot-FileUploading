@@ -8,7 +8,7 @@ public class FileController {
 
     @GetMapping("/")
     public String Hello(){
-        return "HEllo Mr. Ali Raza";
+        return "Hello Mr. Ali Raza";
     }
 
 }
